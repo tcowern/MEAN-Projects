@@ -1,0 +1,11 @@
+{
+  "name": "starter-kit",
+  "version": "1.0.0",
+  "description": "MEAN Starter Kit",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas E Cowern",
+  "license": "ISC"
+}
